@@ -329,12 +329,6 @@ npm run diagnose   # Diagnose errors
 - Check frontend is served on port 5500
 - Verify CORS settings in backend
 
-## 📧 Support
-
-For issues and questions:
-- Create an issue on GitHub
-- Contact: [your-email@example.com]
-
 ## 🙏 Acknowledgments
 
 - Built for agricultural financial inclusion
